@@ -1,5 +1,7 @@
 # Deep_Learning_From_Scratch
 
+with "밑바닥부터 시작하는 딥러닝" (사이토 고키 지음)
+
 1. chap1 ~ chap4
   - 기본 개념 정리 및 코드 구현
 2. chap5 ~ chap8
